@@ -39,6 +39,27 @@ The goal of 5GCoreSec is to provide a **realistic, labeled dataset** for intrusi
 
 ---
 
+## File Structure
+
+The data is provided in multiple CSV files:
+* `Train_subset_1.csv` & `Train_subset_2.csv`: These contain training data and can be used separately or combined into a larger training set.
+* `Test_Data.csv`: A unified test set containing all traffic types for evaluating the final model.
+
+The repository should be structured as follows:
+```
+.
+├── data/
+│   ├── training_data.csv
+│   └── testing_data.csv
+├── class_distribution_train_test_log.png
+├── class_distribution_train_test_pct.png
+│   
+├── .gitignore
+├── LICENSE
+└── README.md
+---
+
+
 ## Dataset Statistics
 
 ### Splits
