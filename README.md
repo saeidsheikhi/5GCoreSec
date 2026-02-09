@@ -70,51 +70,6 @@
 | 28 | attack | object | 100 | True |
 
 
-## Missing Values (Top columns)
-
-### Train
-
-| index | missing_count | missing_pct |
-| --- | --- | --- |
-| ip.fragments | 1752292 | 99.9337 |
-| udp.port | 1752292 | 99.9337 |
-| udp.length | 1752292 | 99.9337 |
-| tcp.segments | 1689238 | 96.3377 |
-| tcp.reassembled.length | 1689238 | 96.3377 |
-| http.request.uri | 1366730 | 77.945 |
-| http.request | 1365568 | 77.8787 |
-| tcp.analysis.ack_rtt | 770089 | 43.9184 |
-| ip.flags.mf | 1162 | 0.0663 |
-| tcp.port | 1162 | 0.0663 |
-| tcp.ack_raw | 1162 | 0.0663 |
-| ip.proto | 1162 | 0.0663 |
-| tcp.window_size.1 | 1162 | 0.0663 |
-| tcp.ack | 1162 | 0.0663 |
-| tcp.seq | 1162 | 0.0663 |
-
-
-### Test
-
-| index | missing_count | missing_pct |
-| --- | --- | --- |
-| ip.fragments | 194700 | 99.9338 |
-| udp.port | 194700 | 99.9338 |
-| udp.length | 194700 | 99.9338 |
-| tcp.segments | 187705 | 96.3435 |
-| tcp.reassembled.length | 187705 | 96.3435 |
-| http.request.uri | 151591 | 77.8072 |
-| http.request | 151462 | 77.741 |
-| tcp.analysis.ack_rtt | 85940 | 44.1105 |
-| ip.flags.mf | 129 | 0.0662 |
-| tcp.port | 129 | 0.0662 |
-| tcp.ack_raw | 129 | 0.0662 |
-| ip.proto | 129 | 0.0662 |
-| tcp.window_size.1 | 129 | 0.0662 |
-| tcp.ack | 129 | 0.0662 |
-| tcp.seq | 129 | 0.0662 |
-
-
-
 
 ## Feature Summary (Train)
 
