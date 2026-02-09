@@ -22,7 +22,7 @@
 ## Related Publications
 
 **Primary publication (dataset paper):**
-1. **Sheikhi, S. (2026).** *5GCoreSec: A Large-Scale GTP-U Traffic Dataset for Machine Learning-Based Intrusion Detection in 5G Networks.* In Proceedings of **ACM KDD 2026**.
+1. **Sheikhi, S. (2026).** *5GCoreSec: A Large-Scale GTP-U Traffic Dataset for Machine Learning-Based Intrusion Detection in 5G Networks.* In Proceedings of **ACM 2026**.
 
 ---
 
