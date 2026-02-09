@@ -1,4 +1,4 @@
-# Dataset Statistics (auto-generated)
+# Dataset Statistics
 
 ## Splits
 
