@@ -114,12 +114,6 @@
 | tcp.seq | 129 | 0.0662 |
 
 
-## Duplicates
-
-- **Train duplicate rows:** 1263796 (72.0747%)
-
-- **Test duplicate rows:** 87314 (44.8157%)
-
 
 
 ## Feature Summary (Train)
